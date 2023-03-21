@@ -12,7 +12,7 @@
 ### My Tools
 * Visualization: Tableau, SAS Visual Analytics
 * Databases: SQL Server, Oracle Database, MS Access
-* Project Management: Primavera p6
+* Project Management: Primavera P6
 * Python: Pandas, NumPy
 * Excel
 
