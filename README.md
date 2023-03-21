@@ -1,3 +1,5 @@
+...
+
 ### Projects
 * [BASF Oracle Database Design and Development](https://github.com/ericpham1215/BASFcompany)
 
@@ -7,9 +9,10 @@
 * Database design and development
 
 
-
 ### My Tools
 * Visualization: Tableau, SAS Visual Analytics
 * Databases: SQL Server, Oracle Database, MS Access
+* Project Management: Primavera p6
+* Python: Pandas, NumPy
 * Excel
 
