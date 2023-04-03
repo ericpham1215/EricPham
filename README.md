@@ -1,7 +1,10 @@
 ...
 
 ### :books: Projects
+
 * [BASF Oracle Database Design and Development](https://github.com/ericpham1215/BASFcompany)
+
+* [Maven Unicorn Challenge](https://github.com/ericpham1215/UnicornChallenge)
 
 ### :computer: My Skills
 * Dashboard Reporting
